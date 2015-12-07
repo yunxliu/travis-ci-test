@@ -1,2 +1,3 @@
 #!/usr/bin/env python
-print "Genarate APK ---------------->O.K"
+if __name__ == '__main__':
+    print "Genarate APK ---------------->O.K"
